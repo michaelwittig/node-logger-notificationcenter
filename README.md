@@ -10,7 +10,6 @@
                                                                       \_/__/  \_/__/
 `````
 
-[![Build Status](https://secure.travis-ci.org/cinovo/node-logger-notificationcenter.png)](http://travis-ci.org/cinovo/node-logger-notificationcenter)
 [![NPM version](https://badge.fury.io/js/cinovo-logger-notificationcenter.png)](http://badge.fury.io/js/cinovo-logger-notificationcenter)
 
 # cinovo-logger-notificationcenter
