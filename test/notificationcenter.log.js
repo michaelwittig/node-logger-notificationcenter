@@ -1,6 +1,7 @@
 var endpoint = require("../index");
 
-describe("notificationcenter", function(){
+describe("notificationcenter", function() {
+	"use strict";
 	describe("debug()", function() {
 		it("should work with level and message", function(done) {
 			var log = {
