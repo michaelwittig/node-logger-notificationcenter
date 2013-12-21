@@ -11,6 +11,7 @@
 `````
 
 [![NPM version](https://badge.fury.io/js/cinovo-logger-notificationcenter.png)](http://badge.fury.io/js/cinovo-logger-notificationcenter)
+[![NPM dependencies](https://david-dm.org/cinovo/node-logger-notificationcenter.png)](https://david-dm.org/cinovo/node-logger-notificationcenter)
 
 # cinovo-logger-notificationcenter
 
