@@ -11,11 +11,11 @@
 `````
 
 [![NPM version](https://badge.fury.io/js/cinovo-logger-notificationcenter.png)](http://badge.fury.io/js/cinovo-logger-notificationcenter)
-[![NPM dependencies](https://david-dm.org/cinovo/node-logger-notificationcenter.png)](https://david-dm.org/cinovo/node-logger-notificationcenter)
+[![NPM dependencies](https://david-dm.org/michaelwittig/node-logger-notificationcenter.png)](https://david-dm.org/michaelwittig/node-logger-notificationcenter)
 
 # cinovo-logger-notificationcenter
 
-Mac OS X Notification Center endpoint for [cinovo-logger](https://github.com/cinovo/node-logger).
+Mac OS X Notification Center endpoint for [cinovo-logger](https://github.com/michaelwittig/node-logger).
 
 ## Getting started
 
